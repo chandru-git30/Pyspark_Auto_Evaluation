@@ -21,3 +21,6 @@ Before you begin, make sure you have the following installed on your machine:
    ```bash
    pytest test.py -v
    ```
+   **You will get output similar to this**
+   ![pytest](https://github.com/chandru-git30/Pyspark_Auto_Evaluation/assets/82560086/ede8fad8-cec0-461a-84c8-8f6918193270)
+

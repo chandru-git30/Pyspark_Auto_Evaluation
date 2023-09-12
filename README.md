@@ -3,6 +3,7 @@ This repository contains code to automatically evaluate PySpark applications. Th
 
 ## Prerequisites 🛠️
 Before you begin, make sure you have the following installed on your machine:
+
 - Python:https://www.python.org/downloads/ 🐍 💻
 - pyspark:https://pypi.org/project/pyspark/ 🐍💥 (If you need only pyspark) or
 - spark:https://spark.apache.org/downloads.html (If you need the complete spark)💥

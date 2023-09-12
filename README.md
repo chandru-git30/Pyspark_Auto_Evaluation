@@ -24,3 +24,9 @@ Before you begin, make sure you have the following installed on your machine:
    **You will get output similar to this**
    ![pytest](https://github.com/chandru-git30/Pyspark_Auto_Evaluation/assets/82560086/ede8fad8-cec0-461a-84c8-8f6918193270)
 
+## Working
+
+- Write pyspark script that need to br autoevaluate
+- Write a test file with correct possible way of output functions for the pyspark script with asserting functions
+- Execute pytest command ***pytest file_name*** to get the evaluation resule
+- For detailed evaluation resule execute ***pytest file_name -v*** with verbouse attribute

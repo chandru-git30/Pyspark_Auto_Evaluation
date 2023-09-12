@@ -8,11 +8,16 @@ Before you begin, make sure you have the following installed on your machine:
 - pyspark:https://pypi.org/project/pyspark/ 🐍💥 (If you need only pyspark) or
 - spark:https://spark.apache.org/downloads.html (If you need the complete spark)💥
 - pytest:https://pypi.org/project/pytest/ 🔬🧪
+- Git: https://git-scm.com/downloads 📦 (Used to clone the repository)
 
 ## Getting Started
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/chandru-git30/DataFusion-DevBox.git
-   cd DataFusion_DevBox/DevBox
+   git clone https://github.com/chandru-git30/Pyspark_Auto_Evaluation.git
+   cd Pyspark_Auto_Evaluation
+   ```
+2. **Execute test cases:**
+   ```bash
+   pytest test.py -v
    ```

@@ -31,4 +31,4 @@ Before you begin, make sure you have the following installed on your machine:
 - Execute pytest command ***pytest file_name*** to get the evaluation resule
 - For detailed evaluation resule execute ***pytest file_name -v*** with verbouse attribute
 
-***thankyou***
+***ThankYou***
